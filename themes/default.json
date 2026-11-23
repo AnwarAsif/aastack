@@ -1,0 +1,13 @@
+{
+  "name": "default",
+  "colors": {
+    "text": "#1f2328", "muted": "#656d76", "border": "#d0d7de", "surface": "#f6f8fa",
+    "background": "#ffffff", "accent": "#2a5db0"
+  },
+  "status": { "good": "#1a7f4b", "warn": "#b7791f", "bad": "#c0392b", "info": "#2a5db0" },
+  "categorical": ["#0072B2", "#E69F00", "#009E73", "#CC79A7", "#56B4E9", "#D55E00", "#F0E442", "#000000"],
+  "fonts": {
+    "sans": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+    "mono": "ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+  }
+}

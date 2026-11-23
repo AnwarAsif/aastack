@@ -1,0 +1,38 @@
+{
+  "mode": "template",
+  "top_files": [
+    "README.md",
+    "LICENSE",
+    "AGENTS.md",
+    "CLAUDE.md",
+    ".gitignore"
+  ],
+  "top_dirs": [
+    "agents",
+    "skills",
+    "playbooks",
+    "connectors",
+    "checks",
+    "themes",
+    "templates",
+    "scripts",
+    "tests",
+    "docs",
+    ".claude",
+    ".github",
+    ".scratch"
+  ],
+  "free_dirs": [
+    ".scratch",
+    "tests",
+    "checks",
+    "docs"
+  ],
+  "manifest_dirs": [],
+  "locked_until_approved": [],
+  "enforce_manifest": false,
+  "scratch": ".scratch",
+  "protected_dirs": [],
+  "protected_files": [],
+  "protected_if_existing": []
+}

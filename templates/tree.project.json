@@ -1,0 +1,63 @@
+{
+  "mode": "project",
+  "top_files": [
+    "SPEC.md",
+    "PLAN.md",
+    "BACKLOG.md",
+    "BLOCKED.md",
+    "AGENTS.md",
+    "CONSTRAINTS.md",
+    "CLAUDE.md",
+    "README.md",
+    "LICENSE",
+    ".gitignore"
+  ],
+  "top_dirs": [
+    "docs",
+    "sql",
+    "src",
+    "tests",
+    "notebooks",
+    "checks",
+    "outputs",
+    "agents",
+    "skills",
+    "playbooks",
+    "connectors",
+    "themes",
+    "scripts",
+    ".claude",
+    ".github",
+    ".scratch"
+  ],
+  "free_dirs": [
+    ".scratch",
+    "tests",
+    "checks",
+    "docs"
+  ],
+  "manifest_dirs": [
+    "sql",
+    "src",
+    "notebooks",
+    "outputs"
+  ],
+  "locked_until_approved": [
+    "sql",
+    "src",
+    "notebooks",
+    "outputs"
+  ],
+  "enforce_manifest": true,
+  "scratch": ".scratch",
+  "protected_dirs": [
+    "checks",
+    ".claude"
+  ],
+  "protected_files": [
+    "CONSTRAINTS.md"
+  ],
+  "protected_if_existing": [
+    "tests"
+  ]
+}
